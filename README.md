@@ -29,6 +29,6 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 ### Video Walktrough
 
-![](https://github.com/AndresXI/Netflix-Clone/blob/master/netflix-demo.gif?raw=true)
+![](https://github.com/r0b1n-h00d/Netflix-Clone/blob/master/netflix-demo.gif?raw=true)
 
 Please feel free to create a pull request.
